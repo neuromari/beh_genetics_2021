@@ -1,0 +1,11 @@
+id,treatment,sex,SL.mm,type,size
+n92,stable.flux,male,70,resident,1
+n74,stable.flux,male,65,intruder,3
+n77,stable.flux,male,69,resident,2
+n64,stable.flux,male,65,resident,4
+n104,stable.flux,male,63,resident,5
+n99,stable.flux,female,64,female,female
+n100,stable.flux,female,54,female,female
+n116,stable.flux,female,50,female,female
+n80,stable.flux,female,50,female,female
+n86,stable.flux,female,48,female,female
